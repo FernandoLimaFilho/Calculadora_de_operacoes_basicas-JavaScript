@@ -1,2 +1,2 @@
-# Calculadora_de_operacoes_basicas-JavaScript
-Como um dos primeiros desafios de JavaScript, foi feita uma calculadora de operações básicas (soma, subtração, multiplicação e divisão). O design dela não é comum, mas foi bem pensado...
+# Calculadora para a realização de operações básicas
+
