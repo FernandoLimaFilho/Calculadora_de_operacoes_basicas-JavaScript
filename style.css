@@ -1,0 +1,155 @@
+@charset "UTF-8";
+
+body {
+    text-align: center;
+}    
+h1 {
+    font: bold 20pt Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    border: 2px solid rgba(0,0,200,0.6);
+    background: rgba(0,0,200,0.3);
+    color: rgba(255, 0, 0, 0.6);
+    box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+    border-radius: 10px;
+    padding: 9px 70px;
+    display: inline-block;  
+}
+h1#resultado {
+    font: bold 20pt Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    border: 2px solid rgba(0,0,200,0.6);
+    background: rgba(255, 0, 0, 0.6);
+    color: rgba(0,0,200,0.6);
+    box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+    border-radius: 10px;
+    padding: 9px 2px;
+    display: inline-block;
+    margin-top: 70px;
+    margin-right: 5px;
+    margin-left: 5px;  
+    width: 180px;
+
+}
+h1#soma {
+    font: bold 20pt Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    border: 2px solid rgba(0,0,200,0.6);
+    background: rgba(255, 0, 0, 0.6);
+    color: rgba(0,0,200,0.6);
+    box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+    border-radius: 10px;
+    padding: 9px 2px;
+    display: inline-block;
+    margin-top: 70px;
+    margin-right: 5px;
+    margin-left: 5px;  
+    width: 60px;
+}
+input {
+    font: bold 20pt Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    border: 2px solid rgba(0,0,200,0.6);
+    background: rgba(255, 0, 0, 0.6);
+    color: rgba(0,0,200,0.6);
+    box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+    border-radius: 10px;
+    padding: 9px 2px;
+    display: inline-block;
+    cursor: pointer;
+    margin-top: 70px;
+    margin-right: 5px;
+    margin-left: 5px;  
+    width: 180px;
+}
+input#igual {
+    font: bold 20pt Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    border: 2px solid rgba(0,0,200,0.6);
+    background: rgba(255, 0, 0, 0.6);
+    color: rgba(0,0,200,0.6);
+    box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+    border-radius: 10px;
+    padding: 9px 2px;
+    display: inline-block;
+    cursor: pointer;
+    margin-top: 70px;
+    margin-right: 5px;
+    margin-left: 5px;  
+    width: 60px;
+}
+input#inp1 {
+    font: bold 20pt Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    border: 2px solid rgba(0,0,200,0.6);
+    background: rgba(255, 0, 0, 0.6);
+    color: rgba(0,0,200,0.6);
+    box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+    border-radius: 10px;
+    padding: 9px 2px;
+    display: inline-block;
+    cursor: pointer;
+    margin-top: 70px;
+    margin-right: 5px;
+    margin-left: 5px;  
+    width: 60px;
+}
+input#inp2 {
+    font: bold 20pt Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    border: 2px solid rgba(0,0,200,0.6);
+    background: rgba(255, 0, 0, 0.6);
+    color: rgba(0,0,200,0.6);
+    box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+    border-radius: 10px;
+    padding: 9px 2px;
+    display: inline-block;
+    cursor: pointer;
+    margin-top: 70px;
+    margin-right: 5px;
+    margin-left: 5px;  
+    width: 60px;
+}
+input#inp3 {
+    font: bold 20pt Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    border: 2px solid rgba(0,0,200,0.6);
+    background: rgba(255, 0, 0, 0.6);
+    color: rgba(0,0,200,0.6);
+    box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+    border-radius: 10px;
+    padding: 9px 2px;
+    display: inline-block;
+    cursor: pointer;
+    margin-top: 70px;
+    margin-right: 5px;
+    margin-left: 5px;  
+    width: 60px;
+}
+input#inp4 {
+    font: bold 20pt Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    border: 2px solid rgba(0,0,200,0.6);
+    background: rgba(255, 0, 0, 0.6);
+    color: rgba(0,0,200,0.6);
+    box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+    border-radius: 10px;
+    padding: 9px 2px;
+    display: inline-block;
+    cursor: pointer;
+    margin-top: 70px;
+    margin-right: 5px;
+    margin-left: 5px;  
+    width: 60px;
+}
+p {
+    margin-top: -60px;
+}    
